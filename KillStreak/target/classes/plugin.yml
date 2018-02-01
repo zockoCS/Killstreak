@@ -1,0 +1,5 @@
+name: KillStreak
+version: 0.1
+author: zocko
+
+main: zocko.killstreak.Main
